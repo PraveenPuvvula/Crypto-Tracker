@@ -1,0 +1,11 @@
+.tickers {
+        list-style-type: none;
+        padding: 0;
+        display: inline-flex;
+        background-color: black;
+        font-family: "Trebuchet MS";
+    }
+p{
+	font-family: "Trebuchet MS";
+	font-size: 16px;
+}

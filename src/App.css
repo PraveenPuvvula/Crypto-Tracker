@@ -1,0 +1,11 @@
+.App {
+        text-align: center;
+    }
+    .App-header {
+        background-color: black;
+        color: white;
+        font-size: 1.25rem;
+        margin: 0;
+        padding: 1rem;
+        font-family: "Trebuchet MS"
+    }
